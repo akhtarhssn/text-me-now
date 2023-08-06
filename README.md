@@ -1,6 +1,6 @@
 # Realtime Chat App
 
-[Check it Out](https://textmenow.vercel.app/)
+## [Check it Out](https://textmenow.vercel.app/)
 
 ![Chat App Screenshot](https://i.ibb.co/FBVrqsH/textmenow.jpg)
 
